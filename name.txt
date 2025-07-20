@@ -1,3 +1,7 @@
-Hey, I am sayali
-Today I am learning git and github
+Hey I am Sayali,
+I have started learning GIT and GITHUB.
+Happy Learning!!
+
+i had removed the file but got it again
+lets start!!
 
